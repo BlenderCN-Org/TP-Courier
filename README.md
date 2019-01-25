@@ -1,6 +1,6 @@
 # RePattern
 
-> tileable pattern design
+> tileable pattern
 
 > icon creation 
 

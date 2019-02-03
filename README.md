@@ -16,4 +16,7 @@
 
 *  [![Donate](https://raw.githubusercontent.com/mkbreuer/TP-Courier/master/Images/donate_pp.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GTXQ32YXXM4NU)   :)
 
-* Some special stuff: https://gumroad.com/l/tp_courier ... > more upcoming... :)
+*  [![Donate](https://raw.githubusercontent.com/mkbreuer/TP-Courier/master/Images/donate_gumroad.png)](https://gumroad.com/l/tp_courier)   :)
+
+
+

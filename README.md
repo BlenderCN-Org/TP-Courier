@@ -12,6 +12,8 @@
 
 ----------
 
+If you find any of this useful, consider supporting my work.
+
 *  [![Donate](https://raw.githubusercontent.com/mkbreuer/TP-Courier/master/Images/donate_patreon.png)](https://www.patreon.com/tpc_mkbreuer)   :)
 
 *  [![Donate](https://raw.githubusercontent.com/mkbreuer/TP-Courier/master/Images/donate_pp.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GTXQ32YXXM4NU)   :)
